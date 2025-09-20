@@ -8,7 +8,7 @@ Workshops
 - ⏳ Build a Reusable Profile Card Component – Not started
 
 Labs
-- ⏳ Build a Reusable Footer – Not started
+- ✅ Build a Reusable Footer – Completed
 - ⏳ Build a Mood Board – Not started
 
 🎯 Goal
