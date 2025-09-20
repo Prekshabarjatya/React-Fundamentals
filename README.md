@@ -1,7 +1,8 @@
 # React-Fundamentals
 This repository contains my solutions to workshops and labs from the React Fundamentals section of FreeCodeCamp. Each task focuses on building small, reusable components and practicing core React patterns.
 
-📂 Contents
+📂 Content
+
 Workshops
 - ✅ Build a Reusable Mega Navbar – Completed
 - ⏳ Build a Reusable Profile Card Component – Not started
