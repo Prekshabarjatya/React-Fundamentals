@@ -5,11 +5,11 @@ This repository contains my solutions to workshops and labs from the React Funda
 
 Workshops
 - ✅ Build a Reusable Mega Navbar – Completed
-- ⏳ Build a Reusable Profile Card Component – Not started
+- ✅ Build a Reusable Profile Card Component – Completed
 
 Labs
 - ✅ Build a Reusable Footer – Completed
-- ⏳ Build a Mood Board – Not started
+- ✅ Build a Mood Board – Completed
 
 🎯 Goal
 1. Strengthen React fundamentals through hands-on coding.
